@@ -1,0 +1,215 @@
+{
+  "Orders" : {
+    "mYRpYmQlF8fNmd2TqLNQ2wfPll23" : {
+      "supermarket1" : {
+        "Wed Mar 03 18:24:04 GMT+02:00 2021" : {
+          "all_items" : {
+            "product1" : {
+              "quantity" : 13,
+              "total_cost" : 19.5
+            }
+          },
+          "date" : "Wed Mar 03 18:24:04 GMT+02:00 2021",
+          "location" : {
+            "accuracy" : 2.5999999046325684,
+            "altitude" : 96.1,
+            "bearing" : 75.31999969482422,
+            "bearingAccuracyDegrees" : 0,
+            "complete" : true,
+            "elapsedRealtimeNanos" : 942141640835072,
+            "extras" : {
+              "empty" : false,
+              "parcelled" : true,
+              "size" : 96
+            },
+            "fromMockProvider" : false,
+            "latitude" : 37.949855,
+            "longitude" : 23.737713333333332,
+            "provider" : "gps",
+            "speed" : 0.844659149646759,
+            "speedAccuracyMetersPerSecond" : 0,
+            "time" : 1614764738000,
+            "verticalAccuracyMeters" : 0
+          },
+          "total_cost" : 19.5
+        }
+      }
+    }
+  },
+  "admin" : "TxKTOM5AsoejTtkUh6bYmjV1N3R2",
+  "products" : {
+    "product1" : {
+      "nameEn" : "Toast Bread",
+      "nameGr" : "Ψωμί του τόστ",
+      "photo_url" : "toast.jpg",
+      "price" : 1.5,
+      "product_id" : "1"
+    },
+    "product2" : {
+      "nameEn" : "Milk",
+      "nameGr" : "Γάλα",
+      "photo_url" : "milk.png",
+      "price" : 1.2,
+      "product_id" : "2"
+    },
+    "product3" : {
+      "nameEn" : "Spaghetti",
+      "nameGr" : "Μακαρόνια",
+      "photo_url" : "spaghetti.jpg",
+      "price" : 1.1,
+      "product_id" : "3"
+    },
+    "product4" : {
+      "nameEn" : "Tea",
+      "nameGr" : "τσάι",
+      "photo_url" : "tea.jpg",
+      "price" : 2.5,
+      "product_id" : "4"
+    },
+    "product5" : {
+      "nameEn" : "Huawei Smartphone",
+      "nameGr" : "Κινητό Huawei",
+      "photo_url" : "guj.jpg",
+      "price" : 200,
+      "product_id" : "5",
+      "stock" : 200
+    },
+    "product6" : {
+      "nameEn" : "ff",
+      "nameGr" : "dd",
+      "photo_url" : "jsks.jpg",
+      "price" : 5.9,
+      "product_id" : "6"
+    }
+  },
+  "supermarket1" : {
+    "Name" : "supermarket1",
+    "locationEn" : "Themistokleos 45,Athens",
+    "locationGr" : "Θεμιστοκλέως 45,Αθήνα",
+    "photo_url" : "supermarket1.jpg",
+    "products" : {
+      "product1" : {
+        "stock" : 13
+      },
+      "product2" : {
+        "stock" : 1
+      },
+      "product3" : {
+        "stock" : 30
+      },
+      "product4" : {
+        "stock" : 40
+      },
+      "product5" : {
+        "stock" : 2
+      },
+      "product6" : {
+        "stock" : 0
+      }
+    }
+  },
+  "supermarket2" : {
+    "Name" : "supermarket2",
+    "locationEn" : "Pathssiwn 123,Athens",
+    "locationGr" : "Πατησσίων 123,Αθήνα",
+    "photo_url" : "supermarket2.jpg",
+    "products" : {
+      "product1" : {
+        "stock" : 0
+      },
+      "product2" : {
+        "stock" : 0
+      },
+      "product3" : {
+        "stock" : 6361
+      },
+      "product4" : {
+        "stock" : 0
+      },
+      "product5" : {
+        "stock" : 0
+      },
+      "product6" : {
+        "stock" : 0
+      }
+    }
+  },
+  "supermarket3" : {
+    "Name" : "supermarket3",
+    "locationEn" : "Platonos 47 ,Athens ",
+    "locationGr" : "Πλάτωνος 47,Αθήνα",
+    "photo_url" : "supermarket3.jpg",
+    "products" : {
+      "product1" : {
+        "stock" : 78
+      },
+      "product2" : {
+        "stock" : 9
+      },
+      "product3" : {
+        "stock" : 29
+      },
+      "product4" : {
+        "stock" : 0
+      },
+      "product5" : {
+        "stock" : 0
+      },
+      "product6" : {
+        "stock" : 0
+      }
+    }
+  },
+  "supermarket4" : {
+    "Name" : "supermarket4",
+    "locationEn" : "Lenorman 24,Peristeri",
+    "locationGr" : "Λένορμαν 24,Περιστέρι",
+    "photo_url" : "supermarket4.jpg",
+    "products" : {
+      "product1" : {
+        "stock" : 20
+      },
+      "product2" : {
+        "stock" : 5
+      },
+      "product3" : {
+        "stock" : 43
+      },
+      "product4" : {
+        "stock" : 0
+      },
+      "product5" : {
+        "stock" : 0
+      },
+      "product6" : {
+        "stock" : 0
+      }
+    }
+  },
+  "supermarket5" : {
+    "Name" : "supermarket5",
+    "locationEn" : "Thiseon 100,Athens",
+    "locationGr" : "Θησέων 100,Αθήνα",
+    "photo_url" : "supermarket5.jpg",
+    "products" : {
+      "product1" : {
+        "stock" : 98
+      },
+      "product2" : {
+        "stock" : 31
+      },
+      "product3" : {
+        "stock" : 17
+      },
+      "product4" : {
+        "stock" : 0
+      },
+      "product5" : {
+        "stock" : 0
+      },
+      "product6" : {
+        "stock" : 0
+      }
+    }
+  }
+}
